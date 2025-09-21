@@ -5,9 +5,9 @@ Good Ole' Days is an application catered to seniors for locating welcoming commu
 
 Our simple UI allows for seniors to be able to navigate our site with ease!
 
-This application utilizes machine learning principles to giev community recommendations.<br>
+This application utilizes machine learning principles to give community recommendations.<br>
 
-Check out the main repository [here]((https://github.com/steelhacks-2025-devs)](https://github.com/steelhacks-2025-devs/main)) ! <br>
+Check out the main repository [here](https://github.com/steelhacks-2025-devs/main)! <br>
 
 
 ## Features ✨
