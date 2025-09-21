@@ -1,54 +1,21 @@
-Quotebook 📒
-What is Quotebook?
-Quotebook is a quote generator that allows users to input a mood to receive and save suggested quotes tailored to their emotions.
+# Good Ole' Days ⭐️
 
-Functioning login/sign-up and user profile features add a personalized touch to Quotebook!
+## What is Good Ole' Days?
+Good Ole' Days is an application catered to seniors for locating welcoming communities in Pittsburgh.<br>
 
-This application utilizes the Gemini API and a quote API to suggest quotes to users.
+Our simple UI allows for seniors to be able to navigate our site with ease!
 
-Check out the main repository here !
+This application utilizes machine learning principles to giev community recommendations.<br>
 
-Note
+Check out the main repository [here]((https://github.com/steelhacks-2025-devs)](https://github.com/steelhacks-2025-devs/main)) ! <br>
 
-Social Media features will be added soon!
 
-Features ✨
-User-Friendly interface.
-Searchbar to input moods.
-User Login/Sign-up.
-Save/Unsave Quotes.
-Editable User Profile.
-Suggested Quotes by Theme.
-Website Pages 💻
-Home :
-Home Page
+## Features ✨
+- User-Friendly interface.
+- Sliders for searching properties by price.
+- Options to input desired walkability and outdoor oppurtunities.
 
-Quote Results :
-Quote Results
-
-Saved Quotes :
-Saved Quotes
-
-Themed Quotes :
-Themed Quotes
-
-Note
-
-This is one of the four themes available.
-
-Profile :
-Profile
-
-Contributors 👥
-@noordiab05
-@shane-thoma
-@bhavana-pixel
-@dannylawler
-
-Quotebook is designed by a team of student developers committed to enhancing their technical experience through projects.
-
-Quotebook™
-
+steelhacks-devs™
 <!--
 
 **Here are some ideas to get you started:**
