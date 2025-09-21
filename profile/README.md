@@ -15,6 +15,10 @@ Check out the main repository [here](https://github.com/steelhacks-2025-devs/mai
 - Sliders for searching properties by price.
 - Options to input desired walkability and outdoor oppurtunities.
 
+## UI 💻
+- Home Page
+  ![Homepage](./homepage.png)
+
 steelhacks-devs™
 <!--
 
